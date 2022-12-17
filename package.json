@@ -1,0 +1,20 @@
+{
+  "name": "ums-piaic",
+  "version": "1.0.0",
+  "description": "University MS",
+  "type" : "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TahirIsmail/ums-piaic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TahirIsmail/ums-piaic/issues"
+  },
+  "homepage": "https://github.com/TahirIsmail/ums-piaic#readme"
+}
